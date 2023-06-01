@@ -10,13 +10,13 @@ We have designed a structure that will properly enable this community to flouris
 
 ### Name
 
-[iDEA](ideacommunity.in)
+[iDEA](https://ideacommunity.in)
 
 ### Faculty Co-ordinators
 
-Guru Prakash (CSE)
+- Guru Prakash (Asst. Prof CSE)
 
-Dhanya M Dhanalakshmi (CSE)
+- Dhanya M Dhanalakshmi (Asst. Prof CSE)
 
 ### Proposed Members
 
