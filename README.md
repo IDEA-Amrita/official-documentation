@@ -10,7 +10,7 @@ We have designed a structure that will properly enable this community to flouris
 
 ### Name
 
-iDEA
+[iDEA](ideacommunity.in)
 
 ### Faculty Co-ordinators
 
@@ -20,34 +20,34 @@ Dhanya M Dhanalakshmi (CSE)
 
 ### Proposed Members
 
-Advisors:
-Nirmal K - CB.EN.U4CSE19038
-Soorya S - CB.EN.U4CSE19352
-Ayush Barik - CB.EN.U4CSE19106
-Arun Joshua Thomas - CB.EN.U4CCE19010
+#### Advisors:
+- Nirmal K - CB.EN.U4CSE19038
+- Soorya S - CB.EN.U4CSE19352
+- Ayush Barik - CB.EN.U4CSE19106
+- Arun Joshua Thomas - CB.EN.U4CCE19010
 
-Management:
-Lead - Aparna Arun - CB.EN.U4CSE20008
-Co-Lead - Akash S - CB.EN.U4CSE20006
-Outreach Lead -
+#### Management:
+- Lead - Aparna Arun - CB.EN.U4CSE20008
+- Co-Lead - Akash S - CB.EN.U4CSE20006
+- Outreach Lead -
 
-Ideation:
-Arjhun S - CB.EN.U4CSE20009
-Varun Sankara Narayanan - CB.EN.U4CSE21665
-Dilip P - CB.EN.U4AIE21009
+#### Ideation:
+- Arjhun S - CB.EN.U4CSE20009
+- Varun Sankara Narayanan - CB.EN.U4CSE21665
+- Dilip P - CB.EN.U4AIE21009
 
-Internal Development:
-Aditya Krishna Mohan - CB.EN.U4CSE21202
-Nithin Ravi - CB.EN.U4CSE21141
+#### Internal Development:
+- Aditya Krishna Mohan - CB.EN.U4CSE21202
+- Nithin Ravi - CB.EN.U4CSE21141
 
-Human Resources:
-Shriramya Karur - CB.EN.U4ECE20255
-Jaideep P - CB.EN.U4ECE20126
-Rahul Dutt - CB.EN.U4MEE20231
+#### Human Resources:
+- Shriramya Karur - CB.EN.U4ECE20255
+- Jaideep P - CB.EN.U4ECE20126
+- Rahul Dutt - CB.EN.U4MEE20231
 
-Curation:
-Prawin Subrajith S - CB.EN.U4MEE20230
-Navami Vipith Kumar - CB.SC.I5DAS20022
+#### Curation:
+- Prawin Subrajith S - CB.EN.U4MEE20230
+- Navami Vipith Kumar - CB.SC.I5DAS20022
 
 ### Proposed Objectives
 
